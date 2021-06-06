@@ -19,7 +19,7 @@ h1
     width:500px;
     padding:20px;
     border-radius:25px;
-    align:center;
+    margin:auto;
     line-height:2em;
 }
 .text-highlight
@@ -31,4 +31,8 @@ h1
 {
     /*Align the table*/
     margin:auto;
+}
+#result
+{
+    margin-left: 90px;
 }
